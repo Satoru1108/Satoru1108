@@ -1,5 +1,4 @@
-## Hi there 👋
-<h3 align="center">A passionate fullstack developer</h3>
+## 👋 Hi there! <h1 align="center">A passionate fullstack developer</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
